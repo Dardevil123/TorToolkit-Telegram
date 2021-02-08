@@ -61,7 +61,7 @@ except:
         DEF_RCLONE_DRIVE = ""
 
         # Max size of a playlist that is allowed (Number of videos)
-        MAX_YTPLAYLIST_SIZE = 20
+        MAX_YTPLAYLIST_SIZE = 900
         
         # Max size of the torrent allowed
         MAX_TORRENT_SIZE = 10
